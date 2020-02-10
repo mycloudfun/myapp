@@ -1,2 +1,3 @@
-# myapp
-MyApp Argo CD Example
+# MyApp
+
+This is the MyApp Argo CD Example
